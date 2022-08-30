@@ -1,0 +1,20 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Mon Aug 29 16:05:40 2022
+
+@author: tarun
+"""
+
+def add(x, y):
+    pass
+def subtract(x, y):
+    pass
+
+def multiply(x, y):
+    pass
+
+def divide(x, y):
+    pass
+
+def square(x, y):
+    pass
