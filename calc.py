@@ -6,7 +6,7 @@ Created on Mon Aug 29 16:05:40 2022
 """
 
 def add(x, y):
-    pass
+    return x + y
 def subtract(x, y):
     pass
 
